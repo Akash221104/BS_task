@@ -68,6 +68,8 @@ The solution was first validated locally and then executed at scale on BrowserSt
 
 ### 🔹 BrowserStack Automation Output
 ![BrowserStack Execution Output](Screenshots/part2.png)
+![BrowserStack Execution Output](Screenshots/part22.png)
+
 
 
 
