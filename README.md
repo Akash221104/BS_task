@@ -38,7 +38,7 @@ The solution was first validated locally and then executed at scale on BrowserSt
 - Text processing and analysis
 
 ### 🔹 Local Script Output (`task.py`)
-![Local Execution Output](screenshots/part1.png)
+![Local Execution Output](Screenshots/part1.png)
 
 
 
@@ -67,7 +67,7 @@ The solution was first validated locally and then executed at scale on BrowserSt
 ---
 
 ### 🔹 BrowserStack Automation Output
-![BrowserStack Execution Output](screenshots/part2.png)
+![BrowserStack Execution Output](Screenshots/part2.png)
 
 
 
