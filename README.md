@@ -37,6 +37,11 @@ The solution was first validated locally and then executed at scale on BrowserSt
 - API integration
 - Text processing and analysis
 
+### 🔹 Local Script Output (`task.py`)
+![Local Execution Output](screenshots/part1.png)
+
+
+
 ---
 
 ## 🧩 Part 2: Cross-Browser Testing on BrowserStack (`browserstack_run.py`)
@@ -61,5 +66,8 @@ The solution was first validated locally and then executed at scale on BrowserSt
 
 ---
 
-## 🗂️ Project Structure
+### 🔹 BrowserStack Automation Output
+![BrowserStack Execution Output](screenshots/part2.png)
+
+
 
